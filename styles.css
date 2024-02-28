@@ -38,6 +38,10 @@ body{
     backdrop-filter: blur(11.6px);
     -webkit-backdrop-filter: blur(11.6px);
 }
+.nav-links a:hover{
+    color: #e9ff99;
+    text-decoration: underline;
+}
 .logo{
     display: inline-block;
     font-size: 30px;
